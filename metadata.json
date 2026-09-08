@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix  Prompt Expert/ VIP",
+  "description": "Una aplicación para convertir ideas en lenguaje natural en prompts de IA expertos y optimizados usando Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
