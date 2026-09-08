@@ -1,0 +1,10 @@
+<resources>
+    <color name="aura_background">#0A0C14</color>
+    <color name="aura_surface">#131726</color>
+    <color name="aura_primary">#6366F1</color>
+    <color name="aura_secondary">#8B5CF6</color>
+    <color name="aura_accent">#EC4899</color>
+    <color name="aura_emerald">#10B981</color>
+    <color name="aura_text">#F8FAFC</color>
+    <color name="aura_subtext">#94A3B8</color>
+</resources>

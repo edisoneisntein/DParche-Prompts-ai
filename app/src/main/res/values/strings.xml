@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Prompt Expert VIP</string>
+    <string name="tagline">Ingeniería de Prompts Industriales y Asistente AURA</string>
+    <string name="step_1_input_title">1. Describe tu idea o requerimiento</string>
+    <string name="input_placeholder">Escribe tu idea aquí (ej. 'Crear un plan de marketing para una cafetería', 'Auditar microservicio en Go')...</string>
+    <string name="generate_button">Generar Prompt Experto</string>
+    <string name="generating_button">Compilando con IA...</string>
+    <string name="step_2_modes_title">2. Selecciona un Modo Experto</string>
+    <string name="step_3_output_title">3. Prompt Experto Generado</string>
+    <string name="step_4_augmenters_title">4. Potenciadores de Prompt</string>
+    <string name="step_4_augmenters_sub">Refina tu prompt con transformaciones expertas de un solo clic.</string>
+    <string name="step_5_chaining_title">Encadenador de Continuidad (Prompt Chaining)</string>
+    <string name="step_5_chaining_sub">Diseña el siguiente prompt experto basado en la respuesta que te dio la IA.</string>
+    <string name="support_docs_title">Documentos de soporte</string>
+    <string name="optional_label">Opcional</string>
+    <string name="clear_all">Limpiar todo</string>
+    <string name="voice_chat_title">Chat de Voz AURA</string>
+    <string name="audit_title">Informe de Auditoría de la Aplicación</string>
+    <string name="copy">Copiar</string>
+    <string name="copied">¡Copiado!</string>
+    <string name="share">Compartir</string>
+    <string name="cached_badge">⚡ Recuperado de caché local</string>
+    <string name="clear_cache">Limpiar Caché</string>
+    <string name="audit_app">Auditar Aplicación</string>
+</resources>
